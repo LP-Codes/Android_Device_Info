@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect 
 
 show_downloads: true
+
+description: Android_Device_Info Useful For Debug/QA Purposes , U can View Info Related To Software Build Properties example - FOTA Version,Packages Etc 
