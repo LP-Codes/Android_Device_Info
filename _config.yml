@@ -4,4 +4,4 @@ show_downloads: true
 
 title:  Quick - Android_Device_Info
 
-description: Android_Device_Info Useful For Debug/QA Purposes , U can View Info Related To Software Build Properties example - FOTA Version,Packages Etc 
+description: A Small Utility Made Using Python For Debug/QA Purposes ,You can View Info Related To Software Build Properties example - FOTA Version,Packages Etc 
